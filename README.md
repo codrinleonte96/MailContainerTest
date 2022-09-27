@@ -32,3 +32,14 @@ You should add suitable tests into the MailContainerTest.Test project.
 
 There are no additional constraints, use the packages and approach you feel appropriate, aim to spend no more than 2 hours. Please update the readme with specific comments on any areas that are unfinished and what you would cover given more time.
 
+
+
+
+Comments from Codrin Leonte:
+- nice kata a nice exercise
+- Used the Strategy Pattern for the logic that retrieves the Container type and the Validation logic. That will allow us to easily add more containers types/validators
+- Added abstraction where I could in order to get the code mockable and easily testable
+- Already extended a bit the time I should have allocated to this in order to get some tests running, but given more time:
+	- I would have added more tests coverage, expecially to not so happy paths
+	- Would have tested the Validators in separate Tests Classes
+
