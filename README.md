@@ -36,7 +36,7 @@ There are no additional constraints, use the packages and approach you feel appr
 
 
 Comments from Codrin Leonte:
-- nice kata a nice exercise
+- nice kata exercise
 - Used the Strategy Pattern for the logic that retrieves the Container type and the Validation logic. That will allow us to easily add more containers types/validators
 - Added abstraction where I could in order to get the code mockable and easily testable
 - Already extended a bit the time I should have allocated to this in order to get some tests running, but given more time:
